@@ -17,7 +17,8 @@
 
 ## 🚀 Live Demo
 
-[Check out the Temperature Converter in action!][(https://aviksen116.github.io/Temperature-Converter/)]
+Check out the Temperature Converter in action! 
+       (https://aviksen116.github.io/Temperature-Converter/)
 ---
 
 ## 🖼️ Preview
