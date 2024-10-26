@@ -23,7 +23,7 @@ Check out the Temperature Converter in action!
 
 ## 🖼️ Preview
 
-Temperature Converter Preview    
+    
 ![image](https://github.com/user-attachments/assets/9fb6a477-b9a9-43c2-acad-cb5c8e72465b)
 
 ---
@@ -36,11 +36,5 @@ Temperature Converter Preview
 
 ---
 
-## 🛠️ Getting Started
-
-To run the Temperature Converter locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/aviksen116/TemperatureConverter.git
-   cd TemperatureConverter
+## 📧 Contact
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/avik-sen-043379273/) or check out my projects on [GitHub](https://github.com/AvikSen116).
