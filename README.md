@@ -1,6 +1,6 @@
 # 🌡️ Temperature Converter
 
-![Temperature Converter Banner](https://user-images.githubusercontent.com/XXXXXXXX/temperature_converter_banner.png)
+
 
 **A sleek and interactive web app for converting temperatures between Fahrenheit and Celsius.** Perfect for anyone needing quick, stylish temperature conversions!
 
