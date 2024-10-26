@@ -23,8 +23,8 @@ Check out the Temperature Converter in action!
 
 ## 🖼️ Preview
 
-![Temperature Converter Preview](![image](https://github.com/user-attachments/assets/9fb6a477-b9a9-43c2-acad-cb5c8e72465b)
-)
+Temperature Converter Preview    
+![image](https://github.com/user-attachments/assets/9fb6a477-b9a9-43c2-acad-cb5c8e72465b)
 
 ---
 
